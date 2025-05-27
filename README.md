@@ -75,8 +75,8 @@ Story Output → Episode Assessment → Feedback Collection → Memory Updates
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd enhanced-story-generator
+git clone <https://github.com/chiuyuwen91/Enhanced_story_generator.git>
+cd Enhanced_story_generator
 ```
 
 2. Install dependencies:
